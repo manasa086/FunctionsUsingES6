@@ -1,0 +1,5 @@
+GIT HUB url:https://github.com/manasa086/FunctionsUsingES6
+
+git hud hashcode:31966a480ab7063f56fd31ccf95456889ba106ab
+
+netlify URL:https://modest-minsky-b257b3.netlify.app/
